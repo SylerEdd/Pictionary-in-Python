@@ -94,12 +94,4 @@ Below are the updated UI screenshots:
 
 ---
 
-## 🏫 College Information
-
-**Griffith College Dublin**
-**HCI & GUI Programming – Assignment 02**
-**2024**
-
----
-
 Feel free to fork, open issues, or submit pull requests! 😊
